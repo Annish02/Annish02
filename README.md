@@ -4,12 +4,16 @@ Nice to meet u all.
 
 I am a male asian boy high school F student studying in Hong Kong, born in 2010 and I should be 28dser hopefully.
 
-As you are aware, Asians are known for their great sense of humor, and enormous genitalia, and respect for non-Asians, and for being polite.
 
-Additionally, I think that I am known for my high EQ, good communicatinh skills among peers.
+My Quote(randomly copied from douyin): Don't loose the diamond in search of gold.
+
+Tools used: vs code, git hub, git
 
 
-My Quote(randomly copied from douyin): Donlt loose the diamond in search of gold.
+How I learn coding/ computer: 
+  free code camp
+  youtube
+  coursera
 
 My promises:
   pass f4
